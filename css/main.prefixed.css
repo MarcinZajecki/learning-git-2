@@ -1,0 +1,45 @@
+section {
+    display: -ms-flexbox;
+    display: flex;
+    margin: 50px;
+}
+
+.song {
+    -ms-flex: 1 1 50%;
+        flex: 1 1 50%;
+}
+
+.song h1 {
+    margin-top: 0;
+}
+
+.lyrics {
+    font-style: italic;
+}
+
+.lyrics span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.lyrics .new-verse {
+    margin-bottom: 25px;
+}
+
+.clip {
+    font-size: 30px;
+}
+
+.source {
+    font-size: 13px;
+}
+
+.picture {
+    -ms-flex: 1 1 50%;
+        flex: 1 1 50%;
+}
+
+.picture img {
+    height: 300px;
+    width: 300px;
+}
