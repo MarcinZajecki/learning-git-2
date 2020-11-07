@@ -14,3 +14,11 @@
 .source {
     font-size: 13px;
 }
+
+span.clip {
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+}
