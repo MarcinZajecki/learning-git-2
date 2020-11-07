@@ -1,0 +1,16 @@
+.song span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.song .new-verse {
+    margin-bottom: 25px;
+}
+
+.lirycs {
+    font-style: italic;
+}
+
+.source {
+    font-size: 13px;
+}
